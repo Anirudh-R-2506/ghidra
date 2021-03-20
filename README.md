@@ -1,5 +1,5 @@
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/239px-WhatsApp.svg.png)
+![alt text](https://github.com/Anirudh-R-2506/ghidra/raw/main/ghidra.png)
 
 # GHIDRA
 
