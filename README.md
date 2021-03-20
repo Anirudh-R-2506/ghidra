@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/Anirudh-R-2506/ghidra/raw/main/ghidra.png)
+![alt text](https://github.com/Anirudh-R-2506/ghidra/raw/main/src/ghidra.png)
 
 # GHIDRA
 
